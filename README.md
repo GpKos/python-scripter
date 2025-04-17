@@ -64,3 +64,5 @@ A. As long as the script is enabled this could be that there was a runtime excep
 ## Original Work
 
 Sourced from gist: https://gist.github.com/mwielgoszewski/7026954
+  
+Sourced from Git: https://github.com/GpKos/Sign-python-scripter
